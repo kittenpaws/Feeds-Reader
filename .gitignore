@@ -1,0 +1,13 @@
+# Composer
+composer.phar
+/vendor/
+
+# Laravel
+vendor/
+node_modules/
+bootstrap/cache/
+storage/
+.env.*.php
+.env.php
+.env
+.rocketeer/
