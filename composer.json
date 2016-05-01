@@ -1,0 +1,11 @@
+{
+    "name": "kittenpaws/feeds-reader",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Quentin Bouteiller",
+            "email": "quentin@quent1.fr"
+        }
+    ],
+    "require": {}
+}
